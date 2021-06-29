@@ -1,0 +1,26 @@
+{
+  "name": "iohookMac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bthalinda/iohookMac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bthalinda/iohookMac/issues"
+  },
+  "homepage": "https://github.com/bthalinda/iohookMac#readme",
+  "devDependencies": {
+    "electron": "^13.1.4"
+  },
+  "dependencies": {
+    "uiohook-napi": "^1.0.8"
+  }
+}
